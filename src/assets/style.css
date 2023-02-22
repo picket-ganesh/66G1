@@ -62,13 +62,13 @@
 }
 @keyframes moving-car {
     100% {
-        transform: translateY(-1px);
+        transform: translateY(-4px);
     }
     50% {
-        transform: translateY(1px);
+        transform: translateY(4px);
     }
     0% {
-        transform: translateY(-1px);
+        transform: translateY(-4px);
     }
 }
 .car-wheel {
